@@ -57,3 +57,12 @@ Active Branches: There are 7 active branches, with the default being "dummy"
  Latest Commit: Tuesday the week of Aug 9th
 
  Active Branches: There are 3 active branches, with the default being "master"
+
+## Gitstats differences
+There were more authors for Organizers and about half as many lines of code.
+
+There were fewer authors for Open Circuits and about the same amount of lines of code.
+
+990 was about the same.
+
+There were more authors for AIPS and much fewer lines of code.
