@@ -66,3 +66,21 @@ There were fewer authors for Open Circuits and about the same amount of lines of
 990 was about the same.
 
 There were more authors for AIPS and much fewer lines of code.
+
+## Screenshots from videos
+
+### Organizer:
+
+<img src="images/gource1.png" width=500/>
+
+### OpenCircuits
+
+<img src="images/gource2.png" width=500/>
+
+### 990
+
+<img src="images/gource3.png" width=500/>
+
+### AIPS
+
+<img src="images/gource4.png" width=500/>
